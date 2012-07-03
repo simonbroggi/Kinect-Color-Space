@@ -5,6 +5,4 @@ bin/
 obj/
 
 # Project property files
-.cbp
-.workspace
 .layout
