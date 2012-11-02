@@ -1,4 +1,4 @@
-Face-Wrinkle
+Kinect-Color-Space
 ============
 
-Interactive installation, Lange Nacht der Museen Bern
+Used the openFrameworks kinect example to see some pretty colors.
